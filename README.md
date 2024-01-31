@@ -11,10 +11,9 @@ Skills:   JS / HTML / CSS /Tailwind CSS
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about web development
 
-<div>
-<div align="left">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustakahmmed)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 <div align="center">
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mustakahmmed&show_icons=true&count_private=true)  
 </div>
